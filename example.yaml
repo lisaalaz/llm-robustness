@@ -1,0 +1,35 @@
+overwrite: true
+path: ~/thesis/results
+
+task: attack
+attack_prompt_count: 3
+
+# task: eval
+# eval_prompt_source: vanilla-100
+
+# task: sft-siamese
+# sft_siamese_config: advglue-promptbench
+
+# task: sft-rewriting
+# sft_rewriting_config: fs-advglue-promptbench
+
+model_names:
+  - llama-3-8b-instruct
+  - flan-t5-large
+
+model_augmentations:
+  - siamese-advglue
+  - vanilla
+
+dataset_names:
+  - cola-100 # grammar correctness (acceptable/unacceptable)
+  - qnli-100 # natural language inference (entailment/not_entailment)
+  - sst2-100 # sentiment analysis (positive/negative)
+
+attack_names:
+  - textfooler # word level
+  - deepwordbug # character level
+
+prompt_types:
+  - zeroshot-task
+  - zeroshot-role
