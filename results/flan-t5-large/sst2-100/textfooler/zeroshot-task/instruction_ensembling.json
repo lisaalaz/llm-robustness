@@ -1,0 +1,23 @@
+[
+  {
+    "original_prompt": "Analyze the tone of this statement and respond with either 'positive' or 'negative':",
+    "attacked_prompt": "Analyze the tones of this affirmations and respond with either 'positive' or 'negative':",
+    "original_score": 0.94,
+    "attacked_score": 0.92,
+    "cosine_similarity": 0.92578125
+  },
+  {
+    "original_prompt": "Evaluate the sentiment of the given text and classify it as 'positive' or 'negative':",
+    "attacked_prompt": "Measuring the emotions of the awarded text and classify it as 'positive' or 'negative':",
+    "original_score": 0.94,
+    "attacked_score": 0.9,
+    "cosine_similarity": 0.88916015625
+  },
+  {
+    "original_prompt": "Please identify the emotional tone of this passage: 'positive' or 'negative'?",
+    "attacked_prompt": "Please identify the emotional tone of this transition: 'positive' or 'negative'?",
+    "original_score": 0.9,
+    "attacked_score": 0.89,
+    "cosine_similarity": 0.94775390625
+  }
+]

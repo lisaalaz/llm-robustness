@@ -1,0 +1,23 @@
+[
+  {
+    "original_prompt": "As a sentiment classifier, determine whether the following text is 'positive' or 'negative'. Please classify:",
+    "attacked_prompt": "Iike a foreboding classifier, determine whether the following wording is 'positive' or 'negative'. Ask categories:",
+    "original_score": 0.94,
+    "attacked_score": 0.55,
+    "cosine_similarity": 0.88037109375
+  },
+  {
+    "original_prompt": "In the role of a sentiment analysis tool, respond with 'positive' or 'negative' to classify this statement:",
+    "attacked_prompt": "De the functions of a premonition investigating apparatus, respond with 'positive' or 'negative' to classifications this assertions:",
+    "original_score": 0.95,
+    "attacked_score": 0.45,
+    "cosine_similarity": 0.75439453125
+  },
+  {
+    "original_prompt": "Acting as a sentiment evaluator, identify if the given sentence is 'positive' or 'negative'. Classify:",
+    "attacked_prompt": "Caretaker as a sense evaluator, detect if the given penalty is 'positive' or 'negative'. Classify:",
+    "original_score": 0.9,
+    "attacked_score": 0.52,
+    "cosine_similarity": 0.83984375
+  }
+]

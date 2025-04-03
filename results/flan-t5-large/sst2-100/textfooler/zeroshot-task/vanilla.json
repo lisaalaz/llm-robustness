@@ -1,0 +1,26 @@
+[
+  {
+    "original_prompt": "Analyze the tone of this statement and respond with either 'positive' or 'negative':",
+    "attacked_prompt": "Analyze the hue of this representations and cope with either 'positive' or 'negative':",
+    "original_score": 0.95,
+    "attacked_score": 0.91,
+    "preserves_semantic_integrity": false,
+    "cosine_similarity": 0.80908203125
+  },
+  {
+    "original_prompt": "Evaluate the sentiment of the given text and classify it as 'positive' or 'negative':",
+    "attacked_prompt": "Appraised the emotion of the gave text and categorize it as 'positive' or 'negative':",
+    "original_score": 0.94,
+    "attacked_score": 0.88,
+    "preserves_semantic_integrity": false,
+    "cosine_similarity": 0.904296875
+  },
+  {
+    "original_prompt": "Please identify the emotional tone of this passage: 'positive' or 'negative'?",
+    "attacked_prompt": "Ask identify the psychological ringtone of this adoption: 'positive' or 'negative'?",
+    "original_score": 0.9,
+    "attacked_score": 0.85,
+    "preserves_semantic_integrity": false,
+    "cosine_similarity": 0.810546875
+  }
+]

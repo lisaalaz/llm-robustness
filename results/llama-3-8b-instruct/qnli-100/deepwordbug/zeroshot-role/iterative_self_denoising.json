@@ -1,0 +1,23 @@
+[
+  {
+    "original_prompt": "As a language expert, assess if the given context entails the answer to the question and respond with 'entailment' or 'not_entailment'.",
+    "attacked_prompt": "As a language expert, assezss if the given context entails the answer to the question and respond with 'entailment' or 'not_entailment'.",
+    "original_score": 0.66,
+    "attacked_score": 0.65,
+    "cosine_similarity": 0.9814453125
+  },
+  {
+    "original_prompt": "In your role as a semantic evaluator, determine if the provided context justifies the answer to the question and answer with 'entailment' or 'not_entailment'.",
+    "attacked_prompt": "In your role as a semantic evaluator, determine if the provided context justifies the answer to the question and answer with 'entailment' or 'not_entailment'.",
+    "original_score": 0.57,
+    "attacked_score": 0.57,
+    "cosine_similarity": 1.0009765625
+  },
+  {
+    "original_prompt": "As a textual analyst, examine if the given context logically implies the answer to the question and indicate your decision with 'entailment' or 'not_entailment'.",
+    "attacked_prompt": "As a textual analyst, examine if the given context logically implies the answer to the question and indicate your decision with 'entailment' or 'not_entailment'.",
+    "original_score": 0.45,
+    "attacked_score": 0.45,
+    "cosine_similarity": 1.0
+  }
+]

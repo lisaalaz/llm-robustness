@@ -1,0 +1,26 @@
+[
+  {
+    "original_prompt": "Analyze the tone of this statement and respond with either 'positive' or 'negative':",
+    "attacked_prompt": "Analyze the hue of this affirmation and accommodate with either 'positive' or 'negative':",
+    "original_score": 0.8,
+    "attacked_score": 0.54,
+    "preserves_semantic_integrity": false,
+    "cosine_similarity": 0.84326171875
+  },
+  {
+    "original_prompt": "Evaluate the sentiment of the given text and classify it as 'positive' or 'negative':",
+    "attacked_prompt": "Rating the senses of the yielded text and classify it as 'positive' or 'negative':",
+    "original_score": 0.95,
+    "attacked_score": 0.62,
+    "preserves_semantic_integrity": false,
+    "cosine_similarity": 0.91552734375
+  },
+  {
+    "original_prompt": "Please identify the emotional tone of this passage: 'positive' or 'negative'?",
+    "attacked_prompt": "Urge locate the romantic tuna of this passage: 'positive' or 'negative'?",
+    "original_score": 0.82,
+    "attacked_score": 0.48,
+    "preserves_semantic_integrity": false,
+    "cosine_similarity": 0.83056640625
+  }
+]

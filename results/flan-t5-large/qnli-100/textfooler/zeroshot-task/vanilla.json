@@ -1,0 +1,26 @@
+[
+  {
+    "original_prompt": "Given the question and context provided, determine if the answer can be inferred by choosing 'entailment' or 'not_entailment'.",
+    "attacked_prompt": "Accorded the question and context provided, defined if the retaliated can are subtracted by akhtar 'entailment' or 'not_entailment'.",
+    "original_score": 0.88,
+    "attacked_score": 0.73,
+    "preserves_semantic_integrity": false,
+    "cosine_similarity": 0.8173828125
+  },
+  {
+    "original_prompt": "Based on the provided context and question, decide if the information supports the answer by responding with 'entailment' or 'not_entailment'.",
+    "attacked_prompt": "Inspired on the provided context and question, decide if the information supports the answer by responding with 'entailment' or 'not_entailment'.",
+    "original_score": 0.87,
+    "attacked_score": 0.86,
+    "preserves_semantic_integrity": true,
+    "cosine_similarity": 0.98046875
+  },
+  {
+    "original_prompt": "Please assess if the answer to the question can be derived from the given context by selecting 'entailment' or 'not_entailment'.",
+    "attacked_prompt": "Please estimated if the answer to the question can become derivatives from the given context by option 'entailment' or 'not_entailment'.",
+    "original_score": 0.86,
+    "attacked_score": 0.68,
+    "preserves_semantic_integrity": false,
+    "cosine_similarity": 0.9345703125
+  }
+]

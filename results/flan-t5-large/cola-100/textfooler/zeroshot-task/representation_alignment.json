@@ -1,0 +1,23 @@
+[
+  {
+    "original_prompt": "Assess the following sentence and determine if it is grammatically correct. Respond with 'acceptable' or 'unacceptable':",
+    "attacked_prompt": "Assess the afterward sentence and determine if it is grammatically correct. Respond with 'acceptable' or 'unacceptable':",
+    "original_score": 0.69,
+    "attacked_score": 0.66,
+    "cosine_similarity": 0.953125
+  },
+  {
+    "original_prompt": "Examine the given sentence and decide if it is grammatically sound. Answer with either 'acceptable' or 'unacceptable':",
+    "attacked_prompt": "Examine the gave sentence and choose if it is grammatically healthy. Answer with either 'acceptable' or 'unacceptable':",
+    "original_score": 0.7,
+    "attacked_score": 0.65,
+    "cosine_similarity": 0.947265625
+  },
+  {
+    "original_prompt": "Analyze the provided sentence and classify its grammatical correctness as 'acceptable' or 'unacceptable':",
+    "attacked_prompt": "Analyze the afforded sentenced and classify its grammatical decorum as 'acceptable' or 'unacceptable':",
+    "original_score": 0.72,
+    "attacked_score": 0.66,
+    "cosine_similarity": 0.94921875
+  }
+]

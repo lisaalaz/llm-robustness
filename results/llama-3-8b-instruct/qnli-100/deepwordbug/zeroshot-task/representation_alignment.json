@@ -1,0 +1,23 @@
+[
+  {
+    "original_prompt": "Given the question and context provided, determine if the answer can be inferred by choosing 'entailment' or 'not_entailment'.",
+    "attacked_prompt": "Given the quesCtion and contnxt Hrovided, determine if the answeJ can be infezred by choYsing 'entailment' or 'not_entailment'.",
+    "original_score": 0.62,
+    "attacked_score": 0.47,
+    "cosine_similarity": 0.95703125
+  },
+  {
+    "original_prompt": "Based on the provided context and question, decide if the information supports the answer by responding with 'entailment' or 'not_entailment'.",
+    "attacked_prompt": "Based on the providUd context and question, decide if the inforation supTorts the answer by responding with 'entailment' or 'not_entailment'.",
+    "original_score": 0.74,
+    "attacked_score": 0.7,
+    "cosine_similarity": 0.96826171875
+  },
+  {
+    "original_prompt": "Please assess if the answer to the question can be derived from the given context by selecting 'entailment' or 'not_entailment'.",
+    "attacked_prompt": "Please assess if the answer to the question can be derived from the giveG context by selecting 'entailment' or 'not_entailment'.",
+    "original_score": 0.68,
+    "attacked_score": 0.66,
+    "cosine_similarity": 0.99560546875
+  }
+]

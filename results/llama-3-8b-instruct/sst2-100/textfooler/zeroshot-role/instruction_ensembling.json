@@ -1,0 +1,23 @@
+[
+  {
+    "original_prompt": "As a sentiment classifier, determine whether the following text is 'positive' or 'negative'. Please classify:",
+    "attacked_prompt": "As a hunch classifier, identifies whether the following laws is 'positive' or 'negative'. Demand graded:",
+    "original_score": 0.96,
+    "attacked_score": 0.63,
+    "cosine_similarity": 0.7939453125
+  },
+  {
+    "original_prompt": "In the role of a sentiment analysis tool, respond with 'positive' or 'negative' to classify this statement:",
+    "attacked_prompt": "Among the functions of a feel investigating instrument, responding with 'positive' or 'negative' to classify this sermons:",
+    "original_score": 0.94,
+    "attacked_score": 0.59,
+    "cosine_similarity": 0.796875
+  },
+  {
+    "original_prompt": "Acting as a sentiment evaluator, identify if the given sentence is 'positive' or 'negative'. Classify:",
+    "attacked_prompt": "Caretaker as a sense evaluator, identify if the given penalty is 'positive' or 'negative'. Classify:",
+    "original_score": 0.93,
+    "attacked_score": 0.52,
+    "cosine_similarity": 0.83984375
+  }
+]

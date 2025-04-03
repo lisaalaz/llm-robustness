@@ -1,0 +1,23 @@
+[
+  {
+    "original_prompt": "In your role as a grammar check tool, assess the following sentence and classify it as 'acceptable' if it is grammatically correct or 'unacceptable' if it is incorrect:",
+    "attacked_prompt": "Of your role as a grammar check tool, assess the following sentence and grading it as 'acceptable' if it is grammatically correct or 'unacceptable' if it is inopportune:",
+    "original_score": 0.73,
+    "attacked_score": 0.69,
+    "cosine_similarity": 0.970703125
+  },
+  {
+    "original_prompt": "As a grammar identification system, examine the provided sentence and respond with 'acceptable' for grammatically correct sentences or 'unacceptable' for incorrect ones:",
+    "attacked_prompt": "As a verbs discovering system, examine the provided sorrows and respond with 'acceptable' for grammatically remedy sentence or 'unacceptable' for misguided ones:",
+    "original_score": 0.72,
+    "attacked_score": 0.59,
+    "cosine_similarity": 0.884765625
+  },
+  {
+    "original_prompt": "Functioning as a grammar evaluation tool, analyze the given sentence and decide if it is grammatically correct, responding with 'acceptable' or 'unacceptable':",
+    "attacked_prompt": "Functioning as a grammar evaluation tool, analyze the given sentence and choice if it is grammatically correction, reacts with 'acceptable' or 'unacceptable':",
+    "original_score": 0.73,
+    "attacked_score": 0.67,
+    "cosine_similarity": 0.97900390625
+  }
+]
