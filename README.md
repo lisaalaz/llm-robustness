@@ -1,21 +1,30 @@
-Official repository for [Enhancing LLM Robustness to Perturbed Instructions: An Empirical Study](https://arxiv.org/abs/2504.02733).
-
-## Instructions
+# Enhancing LLM Robustness to Perturbed Instructions
+Official repository for [Enhancing LLM Robustness to Perturbed Instructions: An Empirical Study](https://arxiv.org/abs/2504.02733). 
 
 Our AdvMix dataset is available [here](https://huggingface.co/datasets/aryanagrawal1/advmix).
 
-Setting up the environment:
+
+## Instructions
+
+### Setting up the environment
 ````
 git clone https://github.com/ary4n99/llm-robustness.git
 cd llm-robustness
-python -m venv 'llm_robustness'
-. llm_robustness/bin/activate
 pip install -r requirements.txt
+
+cp example.yaml config.yaml
+cp .env.example .env
 ````
 
-Running the code:
+### Running the code
+To run attack pipelines:
 ````
-#TODO: add instructions
+python run_pipelines.py --config ./path/to/config --log-level INFO --seed 0
+````
+
+To run semantic integrity analysis:
+````
+python semantic_integrity.py
 ````
 
 ## Citation
