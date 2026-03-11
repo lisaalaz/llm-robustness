@@ -30,13 +30,12 @@ python semantic_integrity.py
 ## Citation
 
 ````bibtex
-@misc{agrawal2025enhancingllmrobustnessperturbed,
-      title={Enhancing LLM Robustness to Perturbed Instructions: An Empirical Study}, 
-      author={Aryan Agrawal and Lisa Alazraki and Shahin Honarvar and Marek Rei},
+@inproceedings{
+      agrawal2025enhancing,
+      title={Enhancing {LLM} Robustness to Perturbed Instructions: An Empirical Study},
+      author={Aryan Agrawal and Lisa Alazraki and Shahin Honarvar and Thomas Mensink and Marek Rei},
+      booktitle={ICLR 2025 Workshop on Building Trust in Language Models and Applications},
       year={2025},
-      eprint={2504.02733},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2504.02733}, 
+      url={https://openreview.net/forum?id=abllmCsDp8}
 }
 ````
